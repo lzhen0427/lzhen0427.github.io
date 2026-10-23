@@ -1,2 +1,5 @@
-# lzhen0427.github.io
-lz‘s personal space
+# lz‘s personal space
+## About Me
+Welcome to my personal space.
+## My Diary
+No entries yet.
