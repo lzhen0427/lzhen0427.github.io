@@ -6,6 +6,6 @@ permalink: /diary/
 
 # My Diary
 
-No entries yet.
+[November 1, 2026](/diary/2026-11-01/)
 
 [Back to homepage](/)
